@@ -1,0 +1,60 @@
+{
+  "clientes": [
+    {
+      "nombre": "andres",
+      "email": "andres@correo.cl",
+      "telefono": 986147536,
+      "empresa": "kibernum",
+      "id": 1
+    },
+    {
+      "nombre": "maria",
+      "email": "maria@correo.cl",
+      "telefono": 987451265,
+      "empresa": "kibernum",
+      "id": 2
+    },
+    {
+      "nombre": "juan",
+      "email": "juan@correo.cl",
+      "telefono": 874521568,
+      "empresa": "kibernum",
+      "id": 3
+    },
+    {
+      "nombre": "carlos",
+      "email": "carlos@correo.cl",
+      "telefono": 789784120,
+      "empresa": "kibernum",
+      "id": 4
+    },
+    {
+      "nombre": "ana",
+      "email": "ana@correo.cl",
+      "telefono": 845123644,
+      "empresa": "kibernum",
+      "id": 5
+    },
+    {
+      "nombre": "susan",
+      "email": "susan@correo.cl",
+      "telefono": 845123644,
+      "empresa": "kibernum",
+      "id": 6
+    },
+    {
+      "nombre": "loreto",
+      "email": "loreto@correo.cl",
+      "telefono": 874512369,
+      "empresa": "kibernum",
+      "id": 7
+    },
+    {
+      "nombre": "angel",
+      "email": "angel@correo.com",
+      "telefono": "784123123",
+      "empresa": "kibernum",
+      "id": 8
+    }
+  ]
+}
